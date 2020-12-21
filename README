@@ -4,4 +4,4 @@ Link para video de demonstração:
 
 PAULO ENEAS ROLIM BEZERRA - 20190000812
 
-Como rodar e testar o programa: Utilizar o make para gerar o executável do programa e executa-lo no promt para realizar os testes.
+Como rodar e testar o programa: Utilizar o make para gerar o executável do programa e executa-lo no prompt para realizar os testes, em seguida digite $./bin/programa.
